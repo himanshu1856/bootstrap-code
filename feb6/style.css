@@ -1,0 +1,34 @@
+/* .container-fluid{
+    height: 100vh;
+} */
+
+.header {
+    background-color: #f5d292;
+}
+
+.nav {
+    background-color: #a8daa8;
+}
+
+.working-area {
+}
+
+.footer {
+    background-color: #ecd1ec;
+}
+
+li{
+    list-style: none;
+}
+
+.side-pane{
+    background-color: #afaffd;
+}
+
+.ex-row{
+    border: 2px solid black;
+}
+
+.ex-col{
+    border: 2px solid green;
+}

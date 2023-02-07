@@ -1,0 +1,32 @@
+.header {
+    height: 5rem;
+    /* width: 100%; */
+    background-color: orange;
+    padding: 1rem;
+}
+
+.nav-bar {
+    height: 2rem;
+    /* width: 100%; */
+    background-color: #ccffcc;
+}
+
+.working-section {
+    height: 36rem;
+    margin-top: 2rem;
+}
+
+.aside-bar {
+    background-color: #66ffff;
+    line-height: 3rem;
+}
+
+ul {
+    list-style: none;
+    margin-top: 2rem ;
+}
+
+.footer {
+    background-color: #00ff00;
+    text-align: center;
+}
